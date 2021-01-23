@@ -1,0 +1,3 @@
+include ':WelabLog'
+include ':app'
+rootProject.name = "library"
